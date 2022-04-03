@@ -1,0 +1,6 @@
+# print("enter first float: ")
+number_1 = float(input())
+# print("enter second float:")
+number_2 = float(input())
+# print("The sum is: ")
+print(number_1 + number_2)
